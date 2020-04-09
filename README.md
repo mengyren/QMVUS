@@ -1,9 +1,9 @@
 Data Types and Structure
 In this project, we will collect and share multi-source urban data to develop dynamic and multidimensional measures in urban segregation. The datasets should contain information including: 
-	Socioeconomic Status Datasets (e.g. Census data, Financial Register Data, Bank Transfer Data) with information like racial, ethnic, gender, education, income, employee skill, etc.
-	Spatiotemporal Behavior Datasets (For example, raw taxi data should be preprocessed and organized the format as follow: taxi_id, pick_up_time, drop_off_time, pick_up_intersection, drop_off_intersection)
-	Urban Socioeconomic Datasets (e.g. Housing Price Data)
-	Other Data could be used to analysis above information
+-Socioeconomic Status Datasets (e.g. Census data, Financial Register Data, Bank Transfer Data) with information like racial, ethnic, gender, education, income, employee skill, etc.
+-Spatiotemporal Behavior Datasets (For example, raw taxi data should be preprocessed and organized the format as follow: taxi_id, pick_up_time, drop_off_time, pick_up_intersection, drop_off_intersection)
+-Urban Socioeconomic Datasets (e.g. Housing Price Data)
+-Other Data could be used to analysis above information
 
 Submit Data
 Metadata and Analysis Results will be submitted, shared, stored, and made publicly available on the QMVUS GitHub Repository.
